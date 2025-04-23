@@ -58,6 +58,7 @@ Deductions: 2000.0
 Net Salary: 53000.0
 
 📂 Project Structure
+<br>
 ├── payroll_app.py          # Main GUI and logic
 <br>
 ├── README.md               # Project documentation
