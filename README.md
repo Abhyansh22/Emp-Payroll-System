@@ -31,10 +31,6 @@ The database and tables are created automatically when the program is first run:
 Database: payroll_sys
 
 Table: employees
-
-sql
-Copy
-Edit
 CREATE TABLE employees (
     employee_id INT PRIMARY KEY,
     name VARCHAR(255),
@@ -59,6 +55,15 @@ Net Salary: 53000.0
 
 📂 Project Structure
 <br>
-├── payroll_app.py          # Main GUI and logic
+├── 1107EMP_payrollsys.py          # Main GUI and logic
 <br>
 ├── README.md               # Project documentation
+
+🚧 Future Improvements
+🎨 Enhanced User Interface for seamless interaction.
+
+📄 Export Payslips: Allow exporting payslips as PDF or CSV files.
+
+🔒 Login Authentication: Add secure login and user roles (e.g., HR, Admin).
+
+⏰ Time Tracking Integration: Integrate attendance or hours-tracking features to automate salary computation.
